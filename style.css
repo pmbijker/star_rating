@@ -1,0 +1,18 @@
+.parent {
+    position: relative;
+    top: 0;
+    left: 0;
+    display: inline-block;
+}
+.child1 {
+    position: relative;
+    height: 50px;
+    top: 0;
+    left: 0;
+}
+.child2 {
+    position: absolute;
+    height: 50px;
+    top: 0;
+    left: 0;
+}
